@@ -1,21 +1,22 @@
 <h1 align="center">👋 Olá, mundo! Sou Nicolas Douglas dos Santos</h1>
 <h3 align="center">
-  👨‍💻 Um explorador apaixonado por tecnologia e desenvolvimento de soluções criativas. Atualmente, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, mas você pode me chamar de *"o cara que resolve problemas com código"*! 🚀  
+  👨‍💻apaixonado por tecnologia e desenvolvimento de soluções criativas. Atualmente, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, mas você pode me chamar de *"o cara que resolve problemas com código"*! 🚀  
 </h3>
 
 <p align="center">
   🎯 Foco atual? Aprimorar minhas habilidades em **Python**, **C#**, **HTML/CSS** e outras tecnologias incríveis.<br>
   💼 Estou em busca de desafios como estagiário ou primeiro emprego na área de TI.<br>
-  ⚡ Fun fact: Apesar de ser um dev, erro de lógica me tira do sério mais rápido que bug em produção! 😅
+  ⚡ Fun fact: Eu detetsto Errar,Mesmo sendo Normal 😅
 </p>
 
 ---
 
 ### 🌟 Um pouco sobre mim:
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP - Universidade Paulista**.  
-- 📩 Para bater um papo ou discutir projetos: **douglasnicolas587@gmail.com**.  
+- 📩 Para Entar em Contato Comigo: **douglasnicolas587@gmail.com**.  
 - 🎮 Gamer nas horas vagas, sempre curioso para aprender algo novo e aplicar tecnologia na prática.  
-- 💬 Discord: **nickflameu21#7576**.  
+-   Jogador de volei nos Fins de Semana
+
 
 ---
 
