@@ -1,15 +1,21 @@
-<h1 align="center">Olá, mundo! Me chamo Nicolas Douglas dos Santos</h1>
+<h1 align="center">👋 Olá, mundo! Sou Nicolas Douglas dos Santos</h1>
 <h3 align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas 📚. Apaixonado por tecnologia e desenvolvimento de soluções inovadoras. 
-  Atualmente, estou focado em aprimorar minhas habilidades em Python, C#, HTML/CSS e desenvolvimento de sistemas. 💼 
-  Buscando oportunidades como estagiário ou primeiro emprego na área de TI.
+  👨‍💻 Um explorador apaixonado por tecnologia e desenvolvimento de soluções criativas. Atualmente, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, mas você pode me chamar de *"o cara que resolve problemas com código"*! 🚀  
 </h3>
 
-- 🌱 Atualmente estudo na **UNIP - Universidade Paulista**, cursando **Análise e Desenvolvimento de Sistemas**.
+<p align="center">
+  🎯 Foco atual? Aprimorar minhas habilidades em **Python**, **C#**, **HTML/CSS** e outras tecnologias incríveis.<br>
+  💼 Estou em busca de desafios como estagiário ou primeiro emprego na área de TI.<br>
+  ⚡ Fun fact: Apesar de ser um dev, erro de lógica me tira do sério mais rápido que bug em produção! 😅
+</p>
 
-- 📫 Entre em contato comigo em: **douglasnicolas587@gmail.com**
+---
 
-- ⚡ Curiosidade: **Não gosto de cometer erros**.
+### 🌟 Um pouco sobre mim:
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP - Universidade Paulista**.  
+- 📩 Para bater um papo ou discutir projetos: **douglasnicolas587@gmail.com**.  
+- 🎮 Gamer nas horas vagas, sempre curioso para aprender algo novo e aplicar tecnologia na prática.  
+- 💬 Discord: **nickflameu21#7576**.  
 
 ---
 
@@ -20,7 +26,7 @@
 
 ---
 
-<h3 align="left">Ferramentas e Tecnologias:</h3>
+<h3 align="left">💻 Ferramentas e Tecnologias:</h3>
 
 **Desenvolvimento de Programação**  
 <p align="left">
@@ -79,7 +85,7 @@
 
 ---
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">🌐 Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
@@ -100,6 +106,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </p>
-
-<p align="left">Discord: **nickflameu21#7576**</p>
-
