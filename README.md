@@ -1,4 +1,4 @@
-<h1 align="center">Olá mundo Nicolas Douglas dos Santos</h1>
+<h1 align="center">Olá mundo me Chamo Nicolas Douglas dos Santos</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 📚 Apaixonado por tecnologia e desenvolvimento de soluções inovadoras. Atualmente, estou focado em aprimorar minhas habilidades em Python, C#, HTML/CSS e desenvolvimento de sistemas. 💼 Buscando oportunidades como estagiário ou no primeiro emprego na área de TI.</h3>
 
 - 🌱 Atualmente estou aprendendo UNIP-Universiade Paulista **Análise e Desenvolvimento de Sistemas**
