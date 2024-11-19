@@ -1,6 +1,8 @@
 <h1 align="center">👋 Olá, mundo! Sou Nicolas Douglas dos Santos</h1>
 <h3 align="center">
-  👨‍💻apaixonado por tecnologia e desenvolvimento de soluções criativas. Atualmente, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, mas você pode me chamar de *"o cara que resolve problemas com código"*! 🚀  
+  👨‍💻apaixonado por tecnologia e desenvolvimento .
+  Atualmente, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, Quase formaado*! 🚀 
+  Logo Serei Um Engenherio de Software
 </h3>
 
 <p align="center">
@@ -14,8 +16,8 @@
 ### 🌟 Um pouco sobre mim:
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP - Universidade Paulista**.  
 - 📩 Para Entar em Contato Comigo: **douglasnicolas587@gmail.com**.  
-- 🎮 Gamer nas horas vagas, sempre curioso para aprender algo novo e aplicar tecnologia na prática.  
--   Jogador de volei nos Fins de Semana
+- 🎮 Gamer nashoras vagas, sempre curioso para aprender algo novo e aplicar tecnologia na prática.  
+-   Jogador de vôlei nos Fins de Semana
 
 
 ---
