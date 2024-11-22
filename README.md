@@ -1,24 +1,15 @@
-<h1 align="center">👋 Olá, mundo! Sou Nicolas Douglas dos Santos</h1>
+<h1 align="center">Olá, mundo! Me chamo Nicolas Douglas dos Santos</h1>
 <h3 align="center">
-  👨‍💻apaixonado por tecnologia e desenvolvimento .
-  Atualmente, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, Quase formaado*! 🚀 
-  Logo Serei Um Engenherio de Software
+  Estudante de Análise e Desenvolvimento de Sistemas 📚. Apaixonado por tecnologia e desenvolvimento de soluções inovadoras. 
+  Atualmente, estou focado em aprimorar minhas habilidades em Python, C#, HTML/CSS e desenvolvimento de sistemas. 💼 
+  Buscando oportunidades como estagiário ou primeiro emprego na área de TI.
 </h3>
 
-<p align="center">
-  🎯 Foco atual? Aprimorar minhas habilidades em **Python**, **C#**, **HTML/CSS** e outras tecnologias incríveis.<br>
-  💼 Estou em busca de desafios como estagiário ou primeiro emprego na área de TI.<br>
-  ⚡ Fun fact: Eu detetsto Errar,Mesmo sendo Normal 😅
-</p>
+- 🌱 Atualmente estudo na **UNIP - Universidade Paulista**, cursando **Análise e Desenvolvimento de Sistemas**.
 
----
+- 📫 Entre em contato comigo em: **douglasnicolas587@gmail.com**
 
-### 🌟 Um pouco sobre mim:
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP - Universidade Paulista**.  
-- 📩 Para Entar em Contato Comigo: **douglasnicolas587@gmail.com**.  
-- 🎮 Gamer nashoras vagas, sempre curioso para aprender algo novo e aplicar tecnologia na prática.  
--   Jogador de vôlei nos Fins de Semana
-
+- ⚡ Curiosidade: **Não gosto de cometer erros**.
 
 ---
 
@@ -29,10 +20,8 @@
 
 ---
 
-<h3 align="left">💻 Ferramentas e Tecnologias:</h3>
-
-**Desenvolvimento de Programação**  
-<p align="left">
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
@@ -42,45 +31,33 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-</p>
-
-**Design e Ferramentas Gráficas**  
-<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   </a> 
-</p>
-
-**Banco de Dados**  
-<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   </a> 
-</p>
-
-**Desenvolvimento de Jogos**  
-<p align="left">
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> 
   </a> 
@@ -88,7 +65,7 @@
 
 ---
 
-<h3 align="left">🌐 Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
